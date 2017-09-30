@@ -1,0 +1,5 @@
+[user]
+	name = Ale Gadpen
+	email = alegadpen@gmail.com
+[credential]
+	helper = cache --timeout 150000
